@@ -1,4 +1,6 @@
-
+[<img width=70 src="https://raw.githubusercontent.com/gist/gilczarneski/8bbedd31f8c0a9e11f5fbb0d9cea577c/raw/d029eccdf8e078a3ba5df2cfb0b4b88b3f418aab/PortugueseLanguageFlag.svg">](#Português)
+[<img width=70 src="https://raw.githubusercontent.com/gist/gilczarneski/8991f069c5d7910d60df800fb1d2945a/raw/d6a89315cb941ddf9fbf2fa4384b77a0d193db24/EnglishLanguageFlag.svg">](#English)
+ # Hi!
  # English
  
 <!--- The links for customizing the applications are commented at the end of the applications.--->
