@@ -1,5 +1,13 @@
- Hello 👋 I'm Sâmela Bulhões
 
+ #English
+ 
+<!--- The links for customizing the applications are commented at the end of the applications.--->
+
+<img title="Cabeçalho Arte" alt="Cabeçalho Arte" width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:00565f,100:3a4a51&height=120&section=header"/> <!-- https://github.com/kyechan99/capsule-render#demo -->
+
+![Cabeçalho animado](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&duration=3000&pause=1500&center=true&vCenter=true&width=1000&lines=Hi+human,+how+are+you+?;+My+name+is+Sâmela+Bulhões.;I'm+from+Recife-Brazil.;I'm+migrating+from+account+to+data.;Welcome+to+my+profile!+:%29 'Cabeçalho animado') <!-- https://git.io/typing-svg -->
+
+---
 
 
 - 🌱 I’m currently working on Data Science Projects related to ARIMA and Neural Networks.
