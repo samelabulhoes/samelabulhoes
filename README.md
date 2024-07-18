@@ -1,6 +1,6 @@
 [<img width=70 src="https://raw.githubusercontent.com/gist/gilczarneski/8bbedd31f8c0a9e11f5fbb0d9cea577c/raw/d029eccdf8e078a3ba5df2cfb0b4b88b3f418aab/PortugueseLanguageFlag.svg">](#Português)
 [<img width=70 src="https://raw.githubusercontent.com/gist/gilczarneski/8991f069c5d7910d60df800fb1d2945a/raw/d6a89315cb941ddf9fbf2fa4384b77a0d193db24/EnglishLanguageFlag.svg">](#English)
- # Hi!
+ 
  # English
  
 <!--- The links for customizing the applications are commented at the end of the applications.--->
@@ -11,11 +11,19 @@
 
 ---
 
+Hello!
 
-- 🌱 I’m currently working on Data Science Projects related to ARIMA and Neural Networks.
+- 🙋‍♀️ My name is Sâmela Bulhões, I'm Recifence and passionate about technology.
+- 🌱 I have experience in programming, using HTML, CSS, SQL, R and Python.
 - 🔭 I'm currently looking for a job. 
-- 📫 I'm currently using Power BI, Python, R and SQL on a daily basis.
+- 📫 I have some repositories here on GitHub, enjoy them without moderation.
 
+---
+  <p align="center">
+<img alt="Coder GIF" height=250 width=350 src="./assets/code.gif" />
+</p>
+
+**I'm currently in the process of migrating my career from accounting to data. At the moment I'm studying the WEB triad:**
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samelabulhoes/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](samelabulhoes@gmail.com)
