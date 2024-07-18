@@ -20,8 +20,9 @@ Hello!
 
 ---
   <p align="center">
-<img alt="Coder GIF" height=250 width=350 src="./assets/code.gif" />
+  <img alt="Coder GIF" height="250" width="350" src="assets/code.gif" />
 </p>
+
 
 **I'm currently in the process of migrating my career from accounting to data. At the moment I'm studying the WEB triad:**
 
